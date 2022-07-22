@@ -67,4 +67,9 @@ public class ScopeController {
         return "success";
     }
 
+    @RequestMapping("/testView")
+    public String testView(){
+        return "test_view";
+    }
+
 }
