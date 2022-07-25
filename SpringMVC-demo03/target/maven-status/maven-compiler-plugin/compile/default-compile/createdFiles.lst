@@ -1,0 +1,4 @@
+com\yanmo\restful\controller\TestController.class
+com\yanmo\restful\controller\UserController.class
+com\yanmo\restful\controller\ScopeController.class
+com\yanmo\restful\controller\ViewController.class

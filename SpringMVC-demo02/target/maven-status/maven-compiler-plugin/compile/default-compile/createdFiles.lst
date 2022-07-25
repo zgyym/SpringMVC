@@ -1,0 +1,4 @@
+com\yanmo\restful\bean\User.class
+com\yanmo\restful\controller\TestController.class
+com\yanmo\restful\controller\RequestMappingController.class
+com\yanmo\restful\controller\ParamController.class
